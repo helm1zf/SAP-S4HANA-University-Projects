@@ -1,5 +1,5 @@
 # 🟦SAP S/4HANA: My University Lab Records.
-**Grade: 1.0** | Projects from my Bachelor at Trier University of Applied Sciences.
+**Grade: 1.0** | **Academic Bachelor Projects** at Trier University of Applied Sciences.
 
 ## 📖 What is This?
 I created this repository to keep a record of what I learned in my SAP modules. I didn't want to lose the knowledge just because the university semester ended.
