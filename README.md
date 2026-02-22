@@ -10,8 +10,9 @@ These notes are based on the practical lab work I did using the "Global Bike" sy
 
 * **Master Data:** I learned that you can't do anything in SAP without a "Business Partner" (Vendor/Customer) and a "Material Master" first.
 
-## 🖥️ Modern SAP (Fiori)
-Most of my work was in **SAP Fiori**. I practiced using the "Apps" and "Tiles" instead of the old transaction codes. It made the system feel a lot more like a modern app.
+## 🖥️ Modern SAP: The Fiori Experience
+I spent the majority of my lab time working within the **SAP Fiori** environment. It's huge shift from the classic SAP GUI. It moves the focus from "Transaction Codes" to User Experience."
+
 ![SAP HomeScreen](./IMG_1421.png)
 *Note: This is the SAP Fiori Launchpad I used for my Bachelor labs. It uses role-based "Tiles" for different business tasks, which is the standard interface for S/4HANA.*
 
