@@ -1,14 +1,13 @@
-# SAP-S4HANA-University-Projects
-My practical work and  notes from the SAP modules at SAP modules at Trier University. Focus on S/4HANA basics and system setup.
-
-
 # SAP S/4HANA: My University Lab Records.
 **Grade: 1.0** | Projects from my Bachelor at Trier University of Applied Sciences.
 
 ## What is This?
 I created this repository to keep a record of what I learned in my SAP modules. I didn't want to lose the knowledge just because the university semester ended.
-
 These notes are based on the practical lab work I did using the "Global Bike" system. It shows that I understand how the system is put together and how the business data flows.
+
+![SAP HomeScreen](./IMG_142.png)
+*Note: This is the SAP Fiori Launchpad I used for my Bachelor labs. It uses role-based "Tiles" for different business tasks, which is the standard interface for S/4HANA.*
+
 
 ### 1. Setting up the Company (Customizing)
 I followed the lab manuals to build a company structure. I practiced creating the "basics" that a company needs to run:
