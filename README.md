@@ -6,10 +6,6 @@ I created this repository to keep a record of what I learned in my SAP modules. 
 These notes are based on the practical lab work I did using the "Global Bike" system. It shows that I understand how the system is put together and how the business data flows.
 
 
-
-
-* **Master Data:** I learned that you can't do anything in SAP without a "Business Partner" (Vendor/Customer) and a "Material Master" first.
-
 ## 🖥️ Modern SAP: The Fiori Experience
 I spent the majority of my lab time working within the **SAP Fiori** environment. It's huge shift from the classic SAP GUI. It moves the focus from "Transaction Codes" to User Experience."
 
