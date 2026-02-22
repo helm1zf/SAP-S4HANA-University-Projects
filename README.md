@@ -1,14 +1,11 @@
-# SAP S/4HANA: My University Lab Records.
+# 🟦SAP S/4HANA: My University Lab Records.
 **Grade: 1.0** | Projects from my Bachelor at Trier University of Applied Sciences.
 
-## What is This?
+## 📖 What is This?
 I created this repository to keep a record of what I learned in my SAP modules. I didn't want to lose the knowledge just because the university semester ended.
 These notes are based on the practical lab work I did using the "Global Bike" system. It shows that I understand how the system is put together and how the business data flows.
 
-![SAP HomeScreen](./IMG_1421.png)
-*Note: This is the SAP Fiori Launchpad I used for my Bachelor labs. It uses role-based "Tiles" for different business tasks, which is the standard interface for S/4HANA.*
-
-
+## 🛠️ Technical Deep-Dive
 ### 1. Setting up the Company (Customizing)
 I followed the lab manuals to build a company structure. I practiced creating the "basics" that a company needs to run:
 * Defining the **Company Code** and **Plants**
@@ -23,6 +20,10 @@ I spent a lot of time practicing the standard "demo" flows:
 
 ### 3. Modern SAP (Fiori)
 Most of my work was in **SAP Fiori**. I practiced using the "Apps" and "Tiles" instead of the old transaction codes. It made the system feel a lot more like a modern app.
+
+## 🖼️ System Workspace
+![SAP HomeScreen](./IMG_1421.png)
+*Note: This is the SAP Fiori Launchpad I used for my Bachelor labs. It uses role-based "Tiles" for different business tasks, which is the standard interface for S/4HANA.*
 
 ## Why this matters to me
 Getting a 1.0 was great, but the real value was seeing how a single click in the warehouse affects the accounting balance sheet. It taught me how "Integrated" a big company really is.
