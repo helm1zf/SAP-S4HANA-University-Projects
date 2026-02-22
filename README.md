@@ -5,7 +5,7 @@
 I created this repository to keep a record of what I learned in my SAP modules. I didn't want to lose the knowledge just because the university semester ended.
 These notes are based on the practical lab work I did using the "Global Bike" system. It shows that I understand how the system is put together and how the business data flows.
 
-![SAP HomeScreen](./IMG_142.png)
+![SAP HomeScreen](./IMG_1421.png)
 *Note: This is the SAP Fiori Launchpad I used for my Bachelor labs. It uses role-based "Tiles" for different business tasks, which is the standard interface for S/4HANA.*
 
 
