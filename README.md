@@ -19,7 +19,7 @@ The part that actually kept me busy wasn't just using the system, but setting it
 I followed the lab manuals to build a company structure. I practiced creating the "basics" that a company needs to run:
 * Defining the **Company Code** and **Plants**
 * Linking the storage locations so the system knows where the inventory is.
-* Setting up the **Material Ledger**. In S/4HANA, you can't just skip this. I had to dive into the technical settings (transactions like **OMX1** and **OMX3**) and then run the productive start (**CKMSTART**). I’ll be honest: getting those status lights to turn green was a bit of a relief. Without that, you can't even move a single bike in the system (the MIGO transaction just fails). It showed me how sensitive the system is—one wrong setting in the background and the whole warehouse stops.
+* Setting up the **Material Ledger**. In S/4HANA, you can't just skip this. I had to dive into the technical settings (transactions like **OMX1** and **OMX3**) and then run the productive start (**CKMSTART**). I’ll be honest: getting those status lights to turn green was a bit of a relief. Without that, you can't even move a single bike in the system (the **MIGO** transaction just fails). It showed me how sensitive the system is. One wrong setting in the background and the whole warehouse stops.
 
 ### 2. Running the Business Cycles
 Once the system was "alive", I practiced the standard flows. This is where I learned that you can't do anything without proper **Master Data** (Business Partners and Material Masters) first,
