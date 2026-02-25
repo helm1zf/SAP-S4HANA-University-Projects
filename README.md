@@ -28,7 +28,7 @@ I spent a lot of time practicing the standard "demo" flows:
 * **Sales:** Handling customer orders and seeing how the system checks if we have enough bikes in stock.
 
 ## ⚡When finally it clicked
-The coolest part for me was seeing the "chain reaction" after basic **Goods Receipt**. On the screen, I was just clickign a button to say "the bikes have arrived." But because the background setup was correct, I could see the system tlaking to itself.
+The coolest part for me was seeing the "chain reaction" after basic **Goods Receipt**. On the screen, I was just clicking a button to say "the bikes have arrived." But because the background setup was correct, I could see the system tlaking to itself.
 * The warehouse stock updated immediately.
 * A hidden accounting document was created.
 * The company's financial balance sheet updated its value in real-time.
